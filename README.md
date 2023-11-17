@@ -34,5 +34,14 @@ Criar uma instância da tela de login - LoginScreen loginScreen = new LoginScree
 ![image](https://github.com/VanessaCristinaSilva/Tela_Login/assets/115050243/f3dfb353-75b9-4de6-970e-0c79827026fc)
 ![image](https://github.com/VanessaCristinaSilva/Tela_Login/assets/115050243/eecdca77-697a-456c-bb9b-3f5a618e2efc)
 
+Tecnologia utilizada
+Linguagem de Programação Java 18.0.1 2022-04-19
+
+IDE
+Eclipse Version: 2022-12 (4.26.0)
+
+Autora
+Vanessa Cristina da Silva
+
 
 
