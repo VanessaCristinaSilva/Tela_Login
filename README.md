@@ -1,5 +1,7 @@
 # Tela_Login
 
+<p>Licença https://github.com/VanessaCristinaSilva/Tela_Login/blob/master/LICENSE</p>
+
 ## Introdução
 
 Este projeto Java apresenta uma implementação simples de uma tela de login. A classe `LoginScreen` oferece funcionalidades de autenticação de usuários e permite a adição de novos usuários ao banco de dados.
